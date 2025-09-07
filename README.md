@@ -1,7 +1,7 @@
 # Mason Cuchia's Portfolio
  
 ## About Me
-I started off my college career at Eastern New Mexico University, where I played division 2 baseball. After my freshman year in college I transfered to Texas State University where I will attend my upcoming sophmore year. There I will pursue a degree in Computer Science and I will graduate in 2027. I have taken Computer Science classes every year since my freshman year in high school and I am very exited to learn more. I have used Python, Java, JavaScript, HTML, CSS, and I am learning C++ now. I am ready to continue learning about the different areas of Computer Science and expanding my knowledge.
+I started off my college career at Eastern New Mexico University, where I played division 2 baseball. After my freshman year in college I transfered to Texas State University where I will continue to pursue a degree in Computer Science and I will graduate in 2027. I have taken Computer Science classes every year since my freshman year in high school and I am very exited to learn more. I have used Python, Java, JavaScript, HTML, CSS, and I am learning C++ now. I am ready to continue learning about the different areas of Computer Science and expanding my knowledge.
 
 ## Projects
 All of these projects are my own creations.
