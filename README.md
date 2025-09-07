@@ -12,7 +12,7 @@ All of these projects are my own creations.
 This project is a single player battleship type game where you enter the row and column you want to shoot at and it gives feedback in the terminal with text-images.
 
 #### Link 
-https://github.com/MasonCuchia/github-portfolio/blob/main/ 
+https://github.com/MasonCuchia/github-portfolio/blob/main/Battleship.cpp
 
 ### Project 2
 
