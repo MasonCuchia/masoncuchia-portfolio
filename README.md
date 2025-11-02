@@ -12,7 +12,7 @@ All of these projects are my own creations.
 A C++ console application that manages student academic records. The system supports adding and removing students, assigning multiple grades per student, computing per-student grade averages, and persisting data between program runs through text-based file I/O. Implemented with a Student class to encapsulate grade data and a Gradebook class to manage collections of students using std::vector, with structured header/source organization and error-safe input handling.
 
 #### Link 
-https://github.com/MasonCuchia/github-portfolio/blob/main/Student Gradebook Manager/
+https://github.com/MasonCuchia/github-portfolio/tree/main/Student%20Gradebook%20Manager
 
 ### Project 2
 
