@@ -68,5 +68,4 @@ https://github.com/MasonCuchia/github-portfolio/tree/main/Drum%20Kit
 
 ## 📫 Contact
 **Email:** masoncuchia@gmail.com  
-**GitHub:** https://github.com/MasonCuchia  
 **LinkedIn:** https://www.linkedin.com/in/mason-cuchia-3544ab355/
