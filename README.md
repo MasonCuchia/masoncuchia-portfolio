@@ -1,57 +1,71 @@
-# Mason Cuchia's Portfolio
- 
-## About Me
-I started off my college career at Eastern New Mexico University, where I played division 2 baseball. After my freshman year in college I transfered to Texas State University where I will continue to pursue a degree in Computer Science and I will graduate in 2027. I have taken Computer Science classes every year since my freshman year in high school and I am very exited to learn more. I have used Python, Java, JavaScript, HTML, CSS, and I am learning C++ now. I am ready to continue learning about the different areas of Computer Science and expanding my knowledge.
+# Mason Cuchia — Portfolio
 
-## Projects
-All of these projects are my own creations.
+## 👋 About Me
+I began my college career at Eastern New Mexico University, where I played Division II baseball and studied Computer Science. I later transferred to Texas State University, where I am continuing my CS degree and plan to graduate in 2027.
 
-### Project 1
+I’ve taken Computer Science courses every year since my freshman year of high school, and I’m passionate about building things, improving my skills, and learning how software solves real-world problems. I have experience with C++, Python, JavaScript, HTML, and CSS — and I am actively expanding my knowledge in software engineering, data structures, and system design.
 
-#### Description:
-A C++ console application that manages student academic records. The system supports adding and removing students, assigning multiple grades per student, computing per-student grade averages, and persisting data between program runs through text-based file I/O. Implemented with a Student class to encapsulate grade data and a Gradebook class to manage collections of students using std::vector, with structured header/source organization and error-safe input handling.
+---
 
-#### Link 
+## 🛠️ Technologies & Skills
+| Category | Tools / Languages |
+|--------|-------------------|
+| Languages | C++, Python, JavaScript, HTML, CSS, Java (basic) |
+| Tools | Git, GitHub, VS Code, macOS Terminal |
+| Concepts | Object-Oriented Programming, Data Structures, File I/O, Debugging, Problem Solving |
+
+---
+
+## 🚀 Projects
+
+### **1. Student Gradebook Manager (C++)**
+**Description:**  
+A command-line application for managing student academic records. Supports adding/removing students, assigning multiple grades, computing averages, and saving/loading data using text-based file I/O. Utilizes custom `Student` and `Gradebook` classes with dynamic storage via `std::vector`.
+
+**Repository:**  
 https://github.com/MasonCuchia/github-portfolio/tree/main/Student%20Gradebook%20Manager
 
-### Project 2
+---
 
-#### Description:
-This project is a single player battleship type game where you enter the row and column you want to shoot at and it gives feedback in the terminal with text-images.
+### **2. Battleship (C++)**
+**Description:**  
+A terminal-based single-player Battleship-style game. Includes ship placement validation, board visualization using text patterns, and hit/miss detection.
 
-#### Link 
+**File:**  
 https://github.com/MasonCuchia/github-portfolio/blob/main/Battleship.cpp
 
-### Project 3
+---
 
-#### Description:
-This project is a text-based adveture game I made using python. I learned python in my computer science intro class so I used the skills I learned to make a game during winter break. 
+### **3. Woods of Shadows — Text Adventure (Python)**
+**Description:**  
+An interactive text-based adventure game built with basic control flow and branching decisions to support multiple story outcomes.
 
-#### Link 
-https://github.com/MasonCuchia/github-portfolio/blob/main/Woods_Of_Shadows.py 
+**File:**  
+https://github.com/MasonCuchia/github-portfolio/blob/main/Woods_Of_Shadows.py
 
-### Project 4
+---
 
-#### Description:
-This project is a copy of the game "Buckshot Roulette" I made using python. I made this project after I saw YouTube videos of people playing the game online and I wanted to see if I could recreate it in a text-based game on my own.
+### **4. Buckshot Roulette — Text-Based Recreation (Python)**
+**Description:**  
+A text-based recreation of the viral game “Buckshot Roulette.” Implemented turn logic, randomized outcomes, and interactive prompts.
 
-#### Link 
+**Repository:**  
 https://github.com/MasonCuchia/github-portfolio/blob/main/Roulette-Game/Roulette.py
 
-### Project 5
+---
 
-#### Description:
-This project is a basic drum kit using HTML, CSS, and JavaScript. When you click on the images they make the corresponding sounds. I made this project to showcase my basic skills using these three languages.
+### **5. Interactive Drum Kit (HTML / CSS / JavaScript)**
+**Description:**  
+A simple front-end project that plays percussion sounds when clicking UI drum elements. Demonstrates event-driven JavaScript, DOM interaction, and styling.
 
-#### Link 
+**Repository:**  
 https://github.com/MasonCuchia/github-portfolio/tree/main/Drum%20Kit
 
- #### Preview
-![Alt text](image.png)
+**Preview:**  
+![Drum Kit Screenshot](image.png)
 
+---
 
-
-## Contact Me 
-
-#### Email
-masoncuchia@gmail.com
+## 📫 Contact
+**Email:** masoncuchia@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/mason-cuchia-3544ab355/
