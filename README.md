@@ -18,7 +18,7 @@ I’ve taken Computer Science courses every year since my freshman year of high 
 
 ## 🚀 Projects
 
-### **1. MMR Tracker for Rocket League
+### **1. MMR Tracker for Rocket League (Java)**
 **Description:**
 A simple Java Swing application that tracks your Rocket League MMR and win streak locally.
 You can quickly update your MMR after each match using Win and Loss buttons, and your progress is automatically saved.
